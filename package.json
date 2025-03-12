@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "3.3.1",
+  "description": "is the test package",
+  "keywords": [
+    "WDS"
+  ],
+  "homepage": "https://github.com/aniketch07/npm-package-test#readme",
+  "bugs": {
+    "url": "https://github.com/aniketch07/npm-package-test/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniketch07/npm-package-test.git"
+  },
+  "license": "ISC",
+  "author": "Aniket",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
